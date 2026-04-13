@@ -1,0 +1,301 @@
+Crop,Symptom1,Symptom2,Symptom3,Temperature,Humidity,Disease
+Potato,dark lesions,leaf rot,wilting,21.3,High,Late Blight
+Rice,yellowing,wilting,leaf streak,22.0,High,Bacterial Blight
+Potato,brown spots,dry patches,yellowing,24.5,High,Early Blight
+Tomato,pale spots,mold growth,leaf drop,34.6,Low,Leaf Mold
+Wheat,orange pustules,leaf spots,yellowing,26.8,Medium,Rust
+Wheat,orange pustules,leaf spots,yellowing,27.3,Medium,Rust
+Corn,long gray lesions,leaf blight,dry leaves,25.0,Medium,Northern Leaf Blight
+Rice,brown spots,leaf drying,yellow halo,20.3,Low,Brown Spot
+Wheat,white powder,leaf curling,dry leaves,32.0,High,Powdery Mildew
+Tomato,pale spots,mold growth,leaf drop,29.1,Medium,Leaf Mold
+Tomato,dark lesions,wilting,yellow edge,33.0,High,Late Blight
+Corn,long gray lesions,leaf blight,dry leaves,27.3,High,Northern Leaf Blight
+Potato,brown spots,dry patches,yellowing,24.9,Low,Early Blight
+Rice,yellowing,wilting,leaf streak,21.1,Low,Bacterial Blight
+Potato,dark lesions,leaf rot,wilting,23.7,Medium,Late Blight
+Corn,long gray lesions,leaf blight,dry leaves,30.7,Medium,Northern Leaf Blight
+Tomato,pale spots,mold growth,leaf drop,27.0,Medium,Leaf Mold
+Rice,yellowing,wilting,leaf streak,23.1,Low,Bacterial Blight
+Tomato,yellow leaves,brown spots,leaf curl,23.8,Medium,Early Blight
+Wheat,white powder,leaf curling,dry leaves,21.1,Low,Powdery Mildew
+Wheat,white powder,leaf curling,dry leaves,28.5,Low,Powdery Mildew
+Tomato,yellow leaves,brown spots,leaf curl,22.4,Low,Early Blight
+Potato,dark lesions,leaf rot,wilting,22.0,Low,Late Blight
+Potato,brown spots,dry patches,yellowing,33.4,Low,Early Blight
+Rice,yellowing,wilting,leaf streak,26.4,Low,Bacterial Blight
+Tomato,yellow leaves,brown spots,leaf curl,33.9,High,Early Blight
+Corn,long gray lesions,leaf blight,dry leaves,31.9,Medium,Northern Leaf Blight
+Tomato,pale spots,mold growth,leaf drop,26.5,Medium,Leaf Mold
+Tomato,pale spots,mold growth,leaf drop,23.7,Low,Leaf Mold
+Tomato,yellow leaves,brown spots,leaf curl,21.2,Low,Early Blight
+Rice,yellowing,wilting,leaf streak,31.9,Medium,Bacterial Blight
+Tomato,yellow leaves,brown spots,leaf curl,26.4,Low,Early Blight
+Potato,brown spots,dry patches,yellowing,27.4,High,Early Blight
+Tomato,pale spots,mold growth,leaf drop,29.8,Low,Leaf Mold
+Wheat,orange pustules,leaf spots,yellowing,23.5,Low,Rust
+Tomato,yellow leaves,brown spots,leaf curl,30.2,High,Early Blight
+Tomato,yellow leaves,brown spots,leaf curl,21.1,Medium,Early Blight
+Corn,long gray lesions,leaf blight,dry leaves,20.2,Low,Northern Leaf Blight
+Tomato,pale spots,mold growth,leaf drop,29.1,Low,Leaf Mold
+Wheat,white powder,leaf curling,dry leaves,23.6,Low,Powdery Mildew
+Tomato,yellow leaves,brown spots,leaf curl,20.3,Low,Early Blight
+Tomato,yellow leaves,brown spots,leaf curl,25.9,Low,Early Blight
+Corn,long gray lesions,leaf blight,dry leaves,23.7,Low,Northern Leaf Blight
+Tomato,dark lesions,wilting,yellow edge,29.4,High,Late Blight
+Corn,long gray lesions,leaf blight,dry leaves,24.2,High,Northern Leaf Blight
+Potato,brown spots,dry patches,yellowing,26.2,Medium,Early Blight
+Tomato,dark lesions,wilting,yellow edge,22.7,Low,Late Blight
+Tomato,yellow leaves,brown spots,leaf curl,29.9,Low,Early Blight
+Wheat,white powder,leaf curling,dry leaves,27.1,Medium,Powdery Mildew
+Rice,yellowing,wilting,leaf streak,23.4,Medium,Bacterial Blight
+Wheat,orange pustules,leaf spots,yellowing,25.1,Medium,Rust
+Wheat,white powder,leaf curling,dry leaves,25.6,High,Powdery Mildew
+Rice,yellowing,wilting,leaf streak,21.5,Low,Bacterial Blight
+Wheat,orange pustules,leaf spots,yellowing,33.9,Low,Rust
+Potato,dark lesions,leaf rot,wilting,34.1,Low,Late Blight
+Wheat,white powder,leaf curling,dry leaves,26.5,High,Powdery Mildew
+Tomato,dark lesions,wilting,yellow edge,22.6,Low,Late Blight
+Rice,yellowing,wilting,leaf streak,33.5,High,Bacterial Blight
+Wheat,white powder,leaf curling,dry leaves,27.9,Medium,Powdery Mildew
+Wheat,white powder,leaf curling,dry leaves,34.2,Low,Powdery Mildew
+Tomato,yellow leaves,brown spots,leaf curl,33.0,High,Early Blight
+Corn,rust spots,yellow leaves,leaf lesions,31.0,High,Common Rust
+Tomato,yellow leaves,brown spots,leaf curl,30.9,Medium,Early Blight
+Tomato,yellow leaves,brown spots,leaf curl,28.4,Medium,Early Blight
+Tomato,yellow leaves,brown spots,leaf curl,34.9,Low,Early Blight
+Tomato,yellow leaves,brown spots,leaf curl,21.9,High,Early Blight
+Potato,dark lesions,leaf rot,wilting,28.2,Medium,Late Blight
+Tomato,pale spots,mold growth,leaf drop,20.7,Low,Leaf Mold
+Tomato,yellow leaves,brown spots,leaf curl,26.4,Medium,Early Blight
+Corn,rust spots,yellow leaves,leaf lesions,31.2,Medium,Common Rust
+Rice,yellowing,wilting,leaf streak,25.7,High,Bacterial Blight
+Corn,long gray lesions,leaf blight,dry leaves,32.8,Low,Northern Leaf Blight
+Tomato,yellow leaves,brown spots,leaf curl,26.4,Medium,Early Blight
+Corn,rust spots,yellow leaves,leaf lesions,29.7,High,Common Rust
+Corn,rust spots,yellow leaves,leaf lesions,23.0,Medium,Common Rust
+Corn,rust spots,yellow leaves,leaf lesions,27.2,High,Common Rust
+Corn,rust spots,yellow leaves,leaf lesions,25.8,High,Common Rust
+Tomato,dark lesions,wilting,yellow edge,23.6,Low,Late Blight
+Tomato,yellow leaves,brown spots,leaf curl,33.6,High,Early Blight
+Wheat,white powder,leaf curling,dry leaves,22.5,High,Powdery Mildew
+Wheat,white powder,leaf curling,dry leaves,23.2,High,Powdery Mildew
+Potato,dark lesions,leaf rot,wilting,28.6,Low,Late Blight
+Rice,yellowing,wilting,leaf streak,31.5,Low,Bacterial Blight
+Potato,brown spots,dry patches,yellowing,34.6,Medium,Early Blight
+Rice,yellowing,wilting,leaf streak,22.0,Medium,Bacterial Blight
+Corn,long gray lesions,leaf blight,dry leaves,31.6,Medium,Northern Leaf Blight
+Corn,long gray lesions,leaf blight,dry leaves,30.8,Medium,Northern Leaf Blight
+Corn,rust spots,yellow leaves,leaf lesions,28.6,Low,Common Rust
+Potato,dark lesions,leaf rot,wilting,29.1,Low,Late Blight
+Tomato,dark lesions,wilting,yellow edge,20.5,Low,Late Blight
+Potato,brown spots,dry patches,yellowing,29.2,Low,Early Blight
+Corn,rust spots,yellow leaves,leaf lesions,26.6,High,Common Rust
+Corn,rust spots,yellow leaves,leaf lesions,25.7,Low,Common Rust
+Potato,brown spots,dry patches,yellowing,34.4,High,Early Blight
+Corn,long gray lesions,leaf blight,dry leaves,29.0,High,Northern Leaf Blight
+Potato,dark lesions,leaf rot,wilting,20.8,Low,Late Blight
+Potato,dark lesions,leaf rot,wilting,21.8,Low,Late Blight
+Corn,long gray lesions,leaf blight,dry leaves,28.4,Low,Northern Leaf Blight
+Corn,long gray lesions,leaf blight,dry leaves,31.0,Low,Northern Leaf Blight
+Wheat,orange pustules,leaf spots,yellowing,30.3,Low,Rust
+Corn,long gray lesions,leaf blight,dry leaves,21.5,Medium,Northern Leaf Blight
+Potato,brown spots,dry patches,yellowing,20.3,High,Early Blight
+Wheat,white powder,leaf curling,dry leaves,20.3,High,Powdery Mildew
+Corn,long gray lesions,leaf blight,dry leaves,21.6,Low,Northern Leaf Blight
+Wheat,white powder,leaf curling,dry leaves,29.5,High,Powdery Mildew
+Potato,brown spots,dry patches,yellowing,23.2,Low,Early Blight
+Rice,yellowing,wilting,leaf streak,30.8,Low,Bacterial Blight
+Tomato,dark lesions,wilting,yellow edge,26.2,Low,Late Blight
+Corn,rust spots,yellow leaves,leaf lesions,22.6,High,Common Rust
+Potato,dark lesions,leaf rot,wilting,30.9,Medium,Late Blight
+Rice,brown spots,leaf drying,yellow halo,32.7,Low,Brown Spot
+Corn,rust spots,yellow leaves,leaf lesions,28.5,Low,Common Rust
+Potato,dark lesions,leaf rot,wilting,30.4,Medium,Late Blight
+Wheat,white powder,leaf curling,dry leaves,30.3,High,Powdery Mildew
+Corn,rust spots,yellow leaves,leaf lesions,20.6,Medium,Common Rust
+Corn,rust spots,yellow leaves,leaf lesions,34.7,High,Common Rust
+Tomato,dark lesions,wilting,yellow edge,28.8,Low,Late Blight
+Wheat,orange pustules,leaf spots,yellowing,21.5,High,Rust
+Potato,dark lesions,leaf rot,wilting,22.5,Low,Late Blight
+Tomato,yellow leaves,brown spots,leaf curl,21.5,Medium,Early Blight
+Potato,dark lesions,leaf rot,wilting,24.3,Low,Late Blight
+Rice,yellowing,wilting,leaf streak,29.4,Medium,Bacterial Blight
+Wheat,white powder,leaf curling,dry leaves,30.0,Low,Powdery Mildew
+Corn,rust spots,yellow leaves,leaf lesions,28.3,High,Common Rust
+Wheat,orange pustules,leaf spots,yellowing,23.8,Low,Rust
+Corn,long gray lesions,leaf blight,dry leaves,23.0,Low,Northern Leaf Blight
+Potato,dark lesions,leaf rot,wilting,30.1,Low,Late Blight
+Rice,brown spots,leaf drying,yellow halo,33.6,High,Brown Spot
+Tomato,pale spots,mold growth,leaf drop,21.8,Medium,Leaf Mold
+Potato,brown spots,dry patches,yellowing,26.3,Medium,Early Blight
+Corn,rust spots,yellow leaves,leaf lesions,23.3,Medium,Common Rust
+Wheat,white powder,leaf curling,dry leaves,32.2,High,Powdery Mildew
+Wheat,white powder,leaf curling,dry leaves,24.6,Low,Powdery Mildew
+Tomato,pale spots,mold growth,leaf drop,30.6,High,Leaf Mold
+Potato,brown spots,dry patches,yellowing,31.8,High,Early Blight
+Potato,dark lesions,leaf rot,wilting,28.8,Medium,Late Blight
+Potato,dark lesions,leaf rot,wilting,25.8,Low,Late Blight
+Rice,yellowing,wilting,leaf streak,26.2,Low,Bacterial Blight
+Corn,rust spots,yellow leaves,leaf lesions,25.0,Medium,Common Rust
+Corn,rust spots,yellow leaves,leaf lesions,20.3,Medium,Common Rust
+Potato,brown spots,dry patches,yellowing,30.9,High,Early Blight
+Tomato,dark lesions,wilting,yellow edge,33.3,Medium,Late Blight
+Corn,long gray lesions,leaf blight,dry leaves,22.4,Low,Northern Leaf Blight
+Potato,dark lesions,leaf rot,wilting,21.4,Low,Late Blight
+Tomato,dark lesions,wilting,yellow edge,25.4,High,Late Blight
+Corn,rust spots,yellow leaves,leaf lesions,21.4,High,Common Rust
+Rice,yellowing,wilting,leaf streak,21.0,High,Bacterial Blight
+Potato,brown spots,dry patches,yellowing,20.3,Low,Early Blight
+Wheat,orange pustules,leaf spots,yellowing,28.4,Low,Rust
+Rice,brown spots,leaf drying,yellow halo,33.5,Low,Brown Spot
+Corn,rust spots,yellow leaves,leaf lesions,24.1,High,Common Rust
+Rice,yellowing,wilting,leaf streak,20.4,Low,Bacterial Blight
+Tomato,dark lesions,wilting,yellow edge,28.7,Low,Late Blight
+Tomato,yellow leaves,brown spots,leaf curl,22.0,High,Early Blight
+Potato,brown spots,dry patches,yellowing,29.2,High,Early Blight
+Corn,rust spots,yellow leaves,leaf lesions,25.9,High,Common Rust
+Tomato,pale spots,mold growth,leaf drop,22.1,High,Leaf Mold
+Potato,brown spots,dry patches,yellowing,23.5,Medium,Early Blight
+Tomato,dark lesions,wilting,yellow edge,32.6,Medium,Late Blight
+Corn,long gray lesions,leaf blight,dry leaves,27.0,Medium,Northern Leaf Blight
+Corn,long gray lesions,leaf blight,dry leaves,26.2,Medium,Northern Leaf Blight
+Potato,dark lesions,leaf rot,wilting,24.3,Medium,Late Blight
+Tomato,yellow leaves,brown spots,leaf curl,32.1,Medium,Early Blight
+Potato,brown spots,dry patches,yellowing,27.3,High,Early Blight
+Tomato,dark lesions,wilting,yellow edge,28.3,Medium,Late Blight
+Wheat,orange pustules,leaf spots,yellowing,30.1,Medium,Rust
+Wheat,orange pustules,leaf spots,yellowing,22.3,High,Rust
+Rice,yellowing,wilting,leaf streak,27.3,High,Bacterial Blight
+Tomato,dark lesions,wilting,yellow edge,21.5,Medium,Late Blight
+Tomato,dark lesions,wilting,yellow edge,31.6,High,Late Blight
+Tomato,pale spots,mold growth,leaf drop,33.8,Medium,Leaf Mold
+Wheat,orange pustules,leaf spots,yellowing,20.8,High,Rust
+Corn,rust spots,yellow leaves,leaf lesions,23.1,Medium,Common Rust
+Corn,rust spots,yellow leaves,leaf lesions,31.1,High,Common Rust
+Wheat,orange pustules,leaf spots,yellowing,26.3,Low,Rust
+Wheat,white powder,leaf curling,dry leaves,34.1,Medium,Powdery Mildew
+Potato,dark lesions,leaf rot,wilting,31.4,High,Late Blight
+Rice,brown spots,leaf drying,yellow halo,30.2,Low,Brown Spot
+Wheat,orange pustules,leaf spots,yellowing,21.6,High,Rust
+Potato,brown spots,dry patches,yellowing,29.0,Medium,Early Blight
+Corn,rust spots,yellow leaves,leaf lesions,21.1,High,Common Rust
+Rice,yellowing,wilting,leaf streak,20.6,Medium,Bacterial Blight
+Potato,dark lesions,leaf rot,wilting,22.6,Medium,Late Blight
+Rice,brown spots,leaf drying,yellow halo,34.2,High,Brown Spot
+Wheat,orange pustules,leaf spots,yellowing,34.3,High,Rust
+Rice,brown spots,leaf drying,yellow halo,31.6,Low,Brown Spot
+Tomato,pale spots,mold growth,leaf drop,26.8,Low,Leaf Mold
+Rice,brown spots,leaf drying,yellow halo,22.2,High,Brown Spot
+Corn,long gray lesions,leaf blight,dry leaves,29.3,Medium,Northern Leaf Blight
+Potato,dark lesions,leaf rot,wilting,23.3,Medium,Late Blight
+Rice,yellowing,wilting,leaf streak,20.3,High,Bacterial Blight
+Rice,yellowing,wilting,leaf streak,23.2,High,Bacterial Blight
+Tomato,yellow leaves,brown spots,leaf curl,23.9,High,Early Blight
+Tomato,dark lesions,wilting,yellow edge,34.8,Medium,Late Blight
+Potato,dark lesions,leaf rot,wilting,30.7,Low,Late Blight
+Potato,dark lesions,leaf rot,wilting,30.0,High,Late Blight
+Rice,yellowing,wilting,leaf streak,31.6,Medium,Bacterial Blight
+Tomato,pale spots,mold growth,leaf drop,24.5,Low,Leaf Mold
+Wheat,white powder,leaf curling,dry leaves,30.8,High,Powdery Mildew
+Tomato,pale spots,mold growth,leaf drop,20.6,Low,Leaf Mold
+Corn,long gray lesions,leaf blight,dry leaves,24.8,Low,Northern Leaf Blight
+Wheat,white powder,leaf curling,dry leaves,33.6,High,Powdery Mildew
+Tomato,pale spots,mold growth,leaf drop,25.1,High,Leaf Mold
+Corn,rust spots,yellow leaves,leaf lesions,32.0,High,Common Rust
+Potato,brown spots,dry patches,yellowing,22.1,Medium,Early Blight
+Corn,long gray lesions,leaf blight,dry leaves,33.7,Low,Northern Leaf Blight
+Tomato,yellow leaves,brown spots,leaf curl,26.1,Medium,Early Blight
+Wheat,orange pustules,leaf spots,yellowing,24.7,Medium,Rust
+Wheat,white powder,leaf curling,dry leaves,21.8,High,Powdery Mildew
+Rice,yellowing,wilting,leaf streak,22.0,Low,Bacterial Blight
+Wheat,orange pustules,leaf spots,yellowing,24.3,High,Rust
+Potato,dark lesions,leaf rot,wilting,33.5,Medium,Late Blight
+Potato,brown spots,dry patches,yellowing,22.2,Medium,Early Blight
+Wheat,white powder,leaf curling,dry leaves,20.6,Low,Powdery Mildew
+Potato,dark lesions,leaf rot,wilting,26.9,Low,Late Blight
+Potato,dark lesions,leaf rot,wilting,22.1,Low,Late Blight
+Wheat,white powder,leaf curling,dry leaves,30.9,Medium,Powdery Mildew
+Tomato,dark lesions,wilting,yellow edge,25.6,High,Late Blight
+Wheat,white powder,leaf curling,dry leaves,28.8,Medium,Powdery Mildew
+Tomato,pale spots,mold growth,leaf drop,32.1,High,Leaf Mold
+Wheat,orange pustules,leaf spots,yellowing,30.6,High,Rust
+Corn,rust spots,yellow leaves,leaf lesions,28.4,High,Common Rust
+Corn,long gray lesions,leaf blight,dry leaves,22.5,Medium,Northern Leaf Blight
+Tomato,yellow leaves,brown spots,leaf curl,28.5,Medium,Early Blight
+Potato,dark lesions,leaf rot,wilting,21.9,Low,Late Blight
+Potato,dark lesions,leaf rot,wilting,32.4,Low,Late Blight
+Potato,brown spots,dry patches,yellowing,28.9,Medium,Early Blight
+Wheat,white powder,leaf curling,dry leaves,26.8,Low,Powdery Mildew
+Wheat,orange pustules,leaf spots,yellowing,32.9,High,Rust
+Potato,dark lesions,leaf rot,wilting,28.7,Low,Late Blight
+Potato,brown spots,dry patches,yellowing,25.4,Low,Early Blight
+Corn,long gray lesions,leaf blight,dry leaves,31.4,Low,Northern Leaf Blight
+Rice,brown spots,leaf drying,yellow halo,34.2,Low,Brown Spot
+Wheat,orange pustules,leaf spots,yellowing,25.2,High,Rust
+Rice,brown spots,leaf drying,yellow halo,29.2,High,Brown Spot
+Corn,long gray lesions,leaf blight,dry leaves,24.4,Medium,Northern Leaf Blight
+Wheat,white powder,leaf curling,dry leaves,24.2,Medium,Powdery Mildew
+Wheat,orange pustules,leaf spots,yellowing,34.9,Medium,Rust
+Corn,rust spots,yellow leaves,leaf lesions,26.6,Medium,Common Rust
+Rice,brown spots,leaf drying,yellow halo,28.9,Low,Brown Spot
+Corn,long gray lesions,leaf blight,dry leaves,23.8,High,Northern Leaf Blight
+Wheat,orange pustules,leaf spots,yellowing,20.1,High,Rust
+Tomato,yellow leaves,brown spots,leaf curl,27.7,Low,Early Blight
+Rice,yellowing,wilting,leaf streak,27.5,Medium,Bacterial Blight
+Wheat,orange pustules,leaf spots,yellowing,23.7,Low,Rust
+Rice,yellowing,wilting,leaf streak,24.0,Low,Bacterial Blight
+Potato,brown spots,dry patches,yellowing,33.5,Medium,Early Blight
+Rice,brown spots,leaf drying,yellow halo,24.0,Low,Brown Spot
+Potato,dark lesions,leaf rot,wilting,30.8,Low,Late Blight
+Rice,brown spots,leaf drying,yellow halo,28.7,Low,Brown Spot
+Rice,yellowing,wilting,leaf streak,20.6,Medium,Bacterial Blight
+Wheat,white powder,leaf curling,dry leaves,24.0,Medium,Powdery Mildew
+Tomato,pale spots,mold growth,leaf drop,21.9,High,Leaf Mold
+Potato,dark lesions,leaf rot,wilting,24.2,High,Late Blight
+Rice,yellowing,wilting,leaf streak,22.1,Medium,Bacterial Blight
+Tomato,pale spots,mold growth,leaf drop,30.0,Low,Leaf Mold
+Wheat,orange pustules,leaf spots,yellowing,33.6,Low,Rust
+Rice,brown spots,leaf drying,yellow halo,27.1,Medium,Brown Spot
+Tomato,yellow leaves,brown spots,leaf curl,31.0,Medium,Early Blight
+Wheat,white powder,leaf curling,dry leaves,20.2,High,Powdery Mildew
+Rice,brown spots,leaf drying,yellow halo,26.0,Medium,Brown Spot
+Corn,long gray lesions,leaf blight,dry leaves,29.9,Medium,Northern Leaf Blight
+Corn,long gray lesions,leaf blight,dry leaves,34.0,Low,Northern Leaf Blight
+Corn,rust spots,yellow leaves,leaf lesions,22.6,High,Common Rust
+Tomato,yellow leaves,brown spots,leaf curl,31.9,High,Early Blight
+Potato,brown spots,dry patches,yellowing,29.6,Low,Early Blight
+Rice,brown spots,leaf drying,yellow halo,24.4,Low,Brown Spot
+Rice,brown spots,leaf drying,yellow halo,27.0,Medium,Brown Spot
+Corn,long gray lesions,leaf blight,dry leaves,34.5,High,Northern Leaf Blight
+Corn,rust spots,yellow leaves,leaf lesions,27.8,High,Common Rust
+Tomato,pale spots,mold growth,leaf drop,23.4,Low,Leaf Mold
+Wheat,white powder,leaf curling,dry leaves,27.9,High,Powdery Mildew
+Rice,brown spots,leaf drying,yellow halo,33.9,Medium,Brown Spot
+Tomato,pale spots,mold growth,leaf drop,27.6,Medium,Leaf Mold
+Corn,rust spots,yellow leaves,leaf lesions,33.4,High,Common Rust
+Rice,brown spots,leaf drying,yellow halo,20.1,High,Brown Spot
+Wheat,orange pustules,leaf spots,yellowing,34.3,Medium,Rust
+Corn,long gray lesions,leaf blight,dry leaves,31.4,Low,Northern Leaf Blight
+Wheat,orange pustules,leaf spots,yellowing,20.3,Low,Rust
+Corn,long gray lesions,leaf blight,dry leaves,22.6,Medium,Northern Leaf Blight
+Corn,long gray lesions,leaf blight,dry leaves,27.2,High,Northern Leaf Blight
+Tomato,pale spots,mold growth,leaf drop,22.0,High,Leaf Mold
+Wheat,orange pustules,leaf spots,yellowing,20.4,Medium,Rust
+Rice,yellowing,wilting,leaf streak,32.4,Low,Bacterial Blight
+Potato,brown spots,dry patches,yellowing,29.9,Low,Early Blight
+Wheat,white powder,leaf curling,dry leaves,34.0,Medium,Powdery Mildew
+Corn,rust spots,yellow leaves,leaf lesions,20.0,Medium,Common Rust
+Tomato,yellow leaves,brown spots,leaf curl,25.9,Medium,Early Blight
+Potato,dark lesions,leaf rot,wilting,22.0,High,Late Blight
+Wheat,orange pustules,leaf spots,yellowing,21.0,Medium,Rust
+Rice,brown spots,leaf drying,yellow halo,29.3,Low,Brown Spot
+Wheat,white powder,leaf curling,dry leaves,24.9,Medium,Powdery Mildew
+Tomato,dark lesions,wilting,yellow edge,27.4,Medium,Late Blight
+Rice,brown spots,leaf drying,yellow halo,20.4,Low,Brown Spot
+Potato,dark lesions,leaf rot,wilting,32.9,High,Late Blight
+Rice,brown spots,leaf drying,yellow halo,26.8,High,Brown Spot
+Tomato,yellow leaves,brown spots,leaf curl,26.3,Low,Early Blight
+Corn,long gray lesions,leaf blight,dry leaves,23.8,Medium,Northern Leaf Blight
+Tomato,yellow leaves,brown spots,leaf curl,30.8,High,Early Blight
+Rice,yellowing,wilting,leaf streak,27.5,High,Bacterial Blight
